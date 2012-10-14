@@ -27,4 +27,4 @@
 	url = git://github.com/tpope/vim-rails.git
 [submodule "bundle/snipmate.vim"]
 	path = bundle/snipmate.vim
-	url = git://github.com/msanders/snipmate.vim.git
+	url = git@github.com:nebjak/snipmate.vim.git
