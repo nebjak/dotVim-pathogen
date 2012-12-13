@@ -46,8 +46,8 @@ set magic
 syntax enable
 
 " Color scheme
-colorscheme Tomorrow-Night
-set background=dark
+set background=light
+colorscheme Tomorrow
 
 " Set utf8 as standard encoding
 set encoding=utf8
