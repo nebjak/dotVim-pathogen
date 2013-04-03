@@ -29,7 +29,6 @@
 * [vim-coffee-script](https://github.com/kchmck/vim-coffee-script)
 * [vim-jade](https://github.com/digitaltoad/vim-jade)
 * [vim-javascript](https://github.com/pangloss/vim-javascript)
-* [vim-dart](https://github.com/bartekd/vim-dart)
 * [vim-json](https://github.com/helino/vim-json)
 * [vim-less](https://github.com/groenewege/vim-less)
 * [vim-rails](https://github.com/tpope/vim-rails)
