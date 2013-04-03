@@ -13,9 +13,6 @@
 [submodule "bundle/vim-javascript"]
 	path = bundle/vim-javascript
 	url = git://github.com/pangloss/vim-javascript.git
-[submodule "bundle/vim-dart"]
-	path = bundle/vim-dart
-	url = git://github.com/bartekd/vim-dart.git
 [submodule "bundle/vim-json"]
 	path = bundle/vim-json
 	url = git://github.com/helino/vim-json.git
