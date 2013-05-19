@@ -46,8 +46,13 @@ set magic
 syntax enable
 
 " Color scheme
-set background=light
-colorscheme Tomorrow
+set background=dark
+
+if has('gui_running')
+  colorscheme solarized
+else
+  colorscheme Tomorrow-Night
+endif
 
 " Set utf8 as standard encoding
 set encoding=utf8
@@ -74,4 +79,4 @@ set listchars=tab:▸\ ,eol:¬
 set number
 
 " GVim font
-set gfn=Monaco\ 10
+set gfn=Monaco\ 10.5
