@@ -1,10 +1,11 @@
-# My .vim and .vimrc
+# My .vim and .vimrc 
+based on [pathogen.vim](https://github.com/tpope/vim-pathogen) runtimepath manager
 
 ## Install
 1. Check out dotVim into `~/.vim`:
 
         $ cd
-        $ git clone git://github.com/nebjak/dotVim.git .vim
+        $ git clone git://github.com/nebjak/dotVim-pathogen.git .vim
 
 2. Change to `~/.vim`:
 
